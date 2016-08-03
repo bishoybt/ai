@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/au.com.bishoy.ai.iml" filepath="$PROJECT_DIR$/au.com.bishoy.ai.iml" />
+      <module fileurl="file://$PROJECT_DIR$/au.com.bishoy.math.iml" filepath="$PROJECT_DIR$/au.com.bishoy.math.iml" />
+    </modules>
+  </component>
+</project>
